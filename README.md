@@ -1,5 +1,7 @@
 # Proyecto Final – Química Orgánica
 
+# Propiedades y análisis de reacciones y obtenciones de compuestos orgánicos halogenados
+
 Universidad Distrital Francisco José de Caldas · Ingeniería Ambiental (FAMARENA)
 Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
