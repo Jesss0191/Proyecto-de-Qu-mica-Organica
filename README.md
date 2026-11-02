@@ -35,9 +35,9 @@ Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
 ## 🛠️ Tareas del Project (tablero)
 
-- [ ] Crear repositorio, agregar a los 5 integrantes y crear el Project
-- [ ] Definir sustancias y propiedades a incluir en la tabla
-- [ ] Construir y revisar la tabla de datos
+- [✅] Crear repositorio, agregar a los 5 integrantes y crear el Project
+- [✅ ] Definir sustancias y propiedades a incluir en la tabla
+- [✅ ] Construir y revisar la tabla de datos
 - [ ] Cargar datos y limpiar en el notebook
 - [ ] Gráficas: tendencias y relación entre propiedades
 - [ ] Documentar las líneas de código del notebook
