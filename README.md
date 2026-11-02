@@ -71,7 +71,7 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 - [ ] Gráficas: tendencias y relación entre propiedades
 - [ ] Documentar las líneas de código del notebook
 - [ ] Estructura del informe en LaTeX
-- [ ] Redactar secciones del informe (repartir entre los 5)
+- [ ] Redactar secciones del informe 
 - [ ] Compilar PDF y revisar errores
 - [ ] Modelo y dashboards en Power BI
 - [ ] Preparar exposición (10 min) y ensayar preguntas
