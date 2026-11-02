@@ -5,13 +5,13 @@ Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
 ## 🌍 Integrantes
 
-| # | Nombre | Responsable principal de |
-|---|--------|--------------------------|
-| 1 | Jesus Alberto Mejia Villarreal | Tabla de datos (Excel) Repositorio (Github) |
-| 2 | Laura Sofía Salcedo Bedoya | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
-| 3 | Valentina Cardenal Moyano | Tabla de datos (Excel) Informe en LaTeX |
-| 4 | Jean Paul Rivera Romero | Tabla de datos (Excel) Presentación (Power BI) |
-| 5 | Laura María Espinosa Bernal | Tabla de datos (Excel) Informe en LaTeX |
+| # | Nombre | Usuario de GitHub | Responsable principal de |
+|---|--------|-------------------|--------------------------|
+| 1 | Jesus Alberto Mejia Villarreal | @Jesss0191 | Tabla de datos (Excel) Repositorio (Github) |
+| 2 | Laura Sofía Salcedo Bedoya | @usuario | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
+| 3 | Valentina Cardenal Moyano | @usuario | Tabla de datos (Excel) Informe en LaTeX |
+| 4 | Jean Paul Rivera Romero | @usuario | Tabla de datos (Excel) Presentación (Power BI) |
+| 5 | Laura María Espinosa Bernal | @Laura-EB153 | Tabla de datos (Excel) Informe en LaTeX |
 
 
 ## 📂 Estructura del repositorio
