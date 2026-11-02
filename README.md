@@ -37,7 +37,7 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 | # | Nombre | Usuario de GitHub | Responsable principal de |
 |---|--------|-------------------|--------------------------|
 | 1 | Jesus Alberto Mejia Villarreal | @Jesss0191 | Tabla de datos (Excel) Repositorio (Github) |
-| 2 | Laura Sofía Salcedo Bedoya | @usuario | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
+| 2 | Laura Sofía Salcedo Bedoya | @Lau777479 | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
 | 3 | Valentina Cardenal Moyano | @merlin0612 | Tabla de datos (Excel) Informe en LaTeX |
 | 4 | Jean Paul Rivera Romero | @usuario | Tabla de datos (Excel) Presentación (Power BI) |
 | 5 | Laura María Espinosa Bernal | @Laura-EB153 | Tabla de datos (Excel) Informe en LaTeX |
