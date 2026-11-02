@@ -3,6 +3,33 @@
 Universidad Distrital Francisco José de Caldas · Ingeniería Ambiental (FAMARENA)
 Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
+## 📖 Descripción del proyecto
+
+Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades químicas de [describir el conjunto de sustancias: completar] en una tabla de datos, las analiza con gráficas en Python (Conda o Google Colab), documenta el trabajo en un informe en LaTeX y presenta los resultados en un dashboard interactivo de Power BI. El trabajo se gestiona en este repositorio, con las tareas organizadas en un GitHub Project.
+
+## 🧑‍🚀 Objetivos
+
+**General**
+
+- Analizar y comparar las propiedades químicas de [sustancias: completar] mediante herramientas de análisis y visualización de datos, relacionando las tendencias observadas con la estructura de cada sustancia.
+
+**Específicos**
+
+- Construir una tabla de datos completa y organizada con las propiedades químicas, indicando la fuente de cada dato.
+- Desarrollar un análisis gráfico en Conda o Google Colab que muestre tendencias y probabilidad, y relacione las propiedades entre sí.
+- Redactar un informe en LaTeX con los resultados y su argumentación.
+- Diseñar un dashboard en Power BI integrado al modelo de datos y preparar la exposición.
+- Trabajar de forma colaborativa en GitHub, con seguimiento de todos los integrantes y tareas organizadas en un Project.
+
+## 👨‍🔬 Metodología
+
+**Recolección de datos**: consulta de Cas-Scifinder y registro de las propiedades en una tabla (datos/).
+**Organización y revisión**: unificar unidades, estructurar la tabla y verificar errores en los datos.
+**Análisis gráfico**: en un notebook (notebooks/), cargar la tabla y generar gráficas de tendencia y probabilidad que relacionen las propiedades. El código se documenta línea a línea.
+**Informe**: redacción en LaTeX (informe/) con introducción, metodología, resultados, análisis y conclusiones.
+**Visualización**: importar la tabla a Power BI, construir el modelo y los dashboards interactivos (powerbi/).
+**Gestión del trabajo**: una rama por tarea, commits propios de cada integrante, revisión por Pull Request y seguimiento en el Project del repositorio.
+
 ## 🌍 Integrantes
 
 | # | Nombre | Usuario de GitHub | Responsable principal de |
