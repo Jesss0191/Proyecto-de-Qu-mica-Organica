@@ -33,7 +33,7 @@ Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 - **Exposiciones:** 19, 23 y 26 de noviembre (orden por número de proyecto)
 - **Duración:** 25 min (10 de exposición, 12 de preguntas, 3 de revisión previa)
 
-## 📅 Tareas del Project (tablero)
+## 🛠️ Tareas del Project (tablero)
 
 - [ ] Crear repositorio, agregar a los 5 integrantes y crear el Project
 - [ ] Definir sustancias y propiedades a incluir en la tabla
