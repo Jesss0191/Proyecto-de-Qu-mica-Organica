@@ -23,12 +23,12 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 
 ## 👨‍🔬 Metodología
 
-**Recolección de datos**: consulta de Cas-Scifinder y registro de las propiedades en una tabla (datos/).
-**Organización y revisión**: unificar unidades, estructurar la tabla y verificar errores en los datos.
-**Análisis gráfico**: en un notebook (notebooks/), cargar la tabla y generar gráficas de tendencia y probabilidad que relacionen las propiedades. El código se documenta línea a línea.
-**Informe**: redacción en LaTeX (informe/) con introducción, metodología, resultados, análisis y conclusiones.
-**Visualización**: importar la tabla a Power BI, construir el modelo y los dashboards interactivos (powerbi/).
-**Gestión del trabajo**: una rama por tarea, commits propios de cada integrante, revisión por Pull Request y seguimiento en el Project del repositorio.
+- **Recolección de datos**: consulta de Cas-Scifinder y registro de las propiedades en una tabla (datos/).
+- **Organización y revisión**: unificar unidades, estructurar la tabla y verificar errores en los datos.
+- **Análisis gráfico**: en un notebook (notebooks/), cargar la tabla y generar gráficas de tendencia y probabilidad que relacionen las propiedades. El código se documenta línea a línea.
+- **Informe**: redacción en LaTeX (informe/) con introducción, metodología, resultados, análisis y conclusiones.
+- **Visualización**: importar la tabla a Power BI, construir el modelo y los dashboards interactivos (powerbi/).
+- **Gestión del trabajo**: una rama por tarea, commits propios de cada integrante, revisión por Pull Request y seguimiento en el Project del repositorio.
 
 ## 🌍 Integrantes
 
