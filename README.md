@@ -10,7 +10,7 @@ Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 | 1 | Jesus Alberto Mejia Villarreal | Tabla de datos (Excel) Repositorio (Github) |
 | 2 | Laura Sofía Salcedo Bedoya | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
 | 3 | Valentina Cardenal Moyano | Tabla de datos (Excel) Informe en LaTeX |
-| 4 | Jean Paul Rivera Romero | Tabla de datos (Excel) Power BI |
+| 4 | Jean Paul Rivera Romero | Tabla de datos (Excel) Presentación (Power BI) |
 | 5 | Laura María Espinosa Bernal | Tabla de datos (Excel) Informe en LaTeX |
 
 > Todos los integrantes deben hacer commits propios en el repositorio.
