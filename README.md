@@ -7,11 +7,11 @@ Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 
 | # | Nombre | Usuario de GitHub | Responsable principal de |
 |---|--------|-------------------|--------------------------|
-| 1 | _[Jesus Alberto Mejia Villarreal]_ | @usuario | Tabla de datos (Excel) Repositorio (Github) |
-| 2 | _[Laura Sofía Salcedo Bedoya]_ | @usuario | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
-| 3 | _[Valentina Cardenal Moyano]_ | @usuario | Tabla de datos (Excel) Informe en LaTeX |
-| 4 | _[Jean Paul Rivera Romero]_ | @usuario | Tabla de datos (Excel) Power BI |
-| 5 | _[Laura María Espinosa Bernal]_ | @usuario | Tabla de datos (Excel) Informe en LaTeX |
+| 1 | Jesus Alberto Mejia Villarreal | Tabla de datos (Excel) Repositorio (Github) |
+| 2 | Laura Sofía Salcedo Bedoya | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
+| 3 | Valentina Cardenal Moyano | Tabla de datos (Excel) Informe en LaTeX |
+| 4 | Jean Paul Rivera Romero | Tabla de datos (Excel) Power BI |
+| 5 | Laura María Espinosa Bernal | Tabla de datos (Excel) Informe en LaTeX |
 
 > Todos los integrantes deben hacer commits propios en el repositorio.
 
@@ -21,21 +21,12 @@ Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 .
 ├── README.md
 ├── datos/          # Tabla con propiedades químicas (.xlsx / .csv)
-├── notebooks/      # Análisis gráfico (.ipynb) – Colab o Conda
+├── notebooks/      # Análisis gráfico (.ipynb) – Colab 
 ├── informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
 ├── powerbi/        # Archivo .pbix y capturas de los dashboards
 └── docs/           # Rúbrica, enunciado y notas del grupo
 ```
 
-## Criterios de evaluación (rúbrica)
-
-| Criterio | Peso | Carpeta |
-|----------|------|---------|
-| Tabla de datos con propiedades químicas | 10 % | `datos/` |
-| Análisis gráfico en Conda o Google Colab | 20 % | `notebooks/` |
-| Informe en LaTeX | 20 % | `informe/` |
-| Repositorio en GitHub (seguimiento de todos + Project) | 20 % | raíz |
-| Power BI y exposición | 30 % | `powerbi/` |
 
 ## Fechas
 
