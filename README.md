@@ -5,7 +5,7 @@ Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
 ## 📖 Descripción del proyecto
 
-Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades químicas de [describir el conjunto de sustancias: completar] en una tabla de datos, las analiza con gráficas en Python (Conda o Google Colab), documenta el trabajo en un informe en LaTeX y presenta los resultados en un dashboard interactivo de Power BI. El trabajo se gestiona en este repositorio, con las tareas organizadas en un GitHub Project.
+Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades químicas de derivados halogenados alifáticos y haluros de acilo (incluyendo monohalogenados, polihalogenados y cicloalcanos clorados, bromados y fluorados) en una tabla de datos, las analiza con gráficas en Python (Conda o Google Colab), documenta el trabajo en un informe en LaTeX y presenta los resultados en un dashboard interactivo de Power BI. El trabajo se gestiona en este repositorio, con las tareas organizadas en un GitHub Project.
 
 ## 🧑‍🚀 Objetivos
 
