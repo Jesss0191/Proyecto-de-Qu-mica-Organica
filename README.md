@@ -11,7 +11,7 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 
 **General**
 
-- Analizar y comparar las propiedades químicas de físico-químicas de halogenuros de alquilo y acilo mediante herramientas de análisis y visualización de datos, relacionando las tendencias observadas con la estructura de cada sustancia.
+- Analizar y comparar las propiedades físico-químicas de halogenuros de alquilo y acilo mediante herramientas de análisis y visualización de datos, relacionando las tendencias observadas con la estructura de cada sustancia.
 
 **Específicos**
 
