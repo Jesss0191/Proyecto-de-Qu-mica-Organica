@@ -1,7 +1,7 @@
 # Proyecto Final – Química Orgánica
 
 Universidad Distrital Francisco José de Caldas · Ingeniería Ambiental (FAMARENA)
-Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
+Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
 ## 🌍 Integrantes
 
