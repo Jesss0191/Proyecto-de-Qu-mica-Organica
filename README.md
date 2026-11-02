@@ -5,8 +5,8 @@ Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 
 ## Integrantes
 
-| # | Nombre | Usuario de GitHub | Responsable principal de |
-|---|--------|-------------------|--------------------------|
+| # | Nombre | Responsable principal de |
+|---|--------|--------------------------|
 | 1 | Jesus Alberto Mejia Villarreal | Tabla de datos (Excel) Repositorio (Github) |
 | 2 | Laura Sofía Salcedo Bedoya | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
 | 3 | Valentina Cardenal Moyano | Tabla de datos (Excel) Informe en LaTeX |
