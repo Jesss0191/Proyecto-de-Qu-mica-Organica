@@ -46,7 +46,9 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 ```
 .
 ├── README.md
-├── datos/          # Tabla con propiedades químicas (.xlsx / .csv)
+├── datos/          # Carpeta compuesta de dos tipos de bases de datos en formato `.xlsx`, con información extraída de **CAS-SciFinder**:
+- datos/proceso/ # Contiene borradores de las tablas de datos, actualizados a medida que se completaba la información reflejando el progreso del proyecto
+- datos/final/ # Contiene el archivo final con las 100 reacciones y 100 obtenciones junto a las propiedades de los 10 compuestos a analizar
 ├── notebooks/      # Análisis gráfico (.ipynb) – Colab 
 ├── informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
 ├── powerbi/        # Archivo .pbix y capturas de los dashboards
