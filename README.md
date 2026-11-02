@@ -3,7 +3,7 @@
 Universidad Distrital Francisco José de Caldas · Ingeniería Ambiental (FAMARENA)
 Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 
-##🌍 Integrantes
+## 🌍 Integrantes
 
 | # | Nombre | Responsable principal de |
 |---|--------|--------------------------|
@@ -14,7 +14,7 @@ Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 | 5 | Laura María Espinosa Bernal | Tabla de datos (Excel) Informe en LaTeX |
 
 
-##📂 Estructura del repositorio
+## 📂 Estructura del repositorio
 
 ```
 .
@@ -27,13 +27,13 @@ Proyecto N.º: _[4]_ · Docente: _[Oscar Genaro García Bautista]_
 ```
 
 
-##📅 Fechas
+## 📅 Fechas
 
 - **Entrega:** 16 de noviembre, hasta las 18:00 (carpeta comprimida organizada)
 - **Exposiciones:** 19, 23 y 26 de noviembre (orden por número de proyecto)
 - **Duración:** 25 min (10 de exposición, 12 de preguntas, 3 de revisión previa)
 
-##📅 Tareas del Project (tablero)
+## 📅 Tareas del Project (tablero)
 
 - [ ] Crear repositorio, agregar a los 5 integrantes y crear el Project
 - [ ] Definir sustancias y propiedades a incluir en la tabla
