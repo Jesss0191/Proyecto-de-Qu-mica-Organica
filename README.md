@@ -9,6 +9,16 @@ Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
 Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades químicas de derivados halogenados alifáticos y haluros de acilo (incluyendo monohalogenados, polihalogenados y cicloalcanos clorados, bromados y fluorados) en una tabla de datos, las analiza con gráficas en Python (Conda o Google Colab), documenta el trabajo en un informe en LaTeX y presenta los resultados en un dashboard interactivo de Power BI. El trabajo se gestiona en este repositorio, con las tareas organizadas en un GitHub Project.
 
+## 🌍 Integrantes
+
+| # | Nombre | Usuario de GitHub | Responsable principal de |
+|---|--------|-------------------|--------------------------|
+| 1 | Jesus Alberto Mejia Villarreal | @Jesss0191 | Tabla de datos (Excel) Repositorio (Github) |
+| 2 | Laura Sofía Salcedo Bedoya | @Lau777479 | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
+| 3 | Valentina Cardenal Moyano | @merlin0612 | Tabla de datos (Excel) Informe en LaTeX |
+| 4 | Jean Paul Rivera Romero | @JeanpRivera | Tabla de datos (Excel) Presentación (Power BI) |
+| 5 | Laura María Espinosa Bernal | @Laura-EB153 | Tabla de datos (Excel) Informe en LaTeX |
+
 ## 🧑‍🚀 Objetivos
 
 **General**
@@ -31,16 +41,6 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 - **Informe**: redacción en LaTeX (informe/) con introducción, metodología, resultados, análisis y conclusiones.
 - **Visualización**: importar la tabla a Power BI, construir el modelo y los dashboards interactivos (powerbi/).
 - **Gestión del trabajo**: una rama por tarea, commits propios de cada integrante, revisión por Pull Request y seguimiento en el Project del repositorio.
-
-## 🌍 Integrantes
-
-| # | Nombre | Usuario de GitHub | Responsable principal de |
-|---|--------|-------------------|--------------------------|
-| 1 | Jesus Alberto Mejia Villarreal | @Jesss0191 | Tabla de datos (Excel) Repositorio (Github) |
-| 2 | Laura Sofía Salcedo Bedoya | @Lau777479 | Tabla de datos (Excel) Análisis gráfico (Colab/Conda) |
-| 3 | Valentina Cardenal Moyano | @merlin0612 | Tabla de datos (Excel) Informe en LaTeX |
-| 4 | Jean Paul Rivera Romero | @JeanpRivera | Tabla de datos (Excel) Presentación (Power BI) |
-| 5 | Laura María Espinosa Bernal | @Laura-EB153 | Tabla de datos (Excel) Informe en LaTeX |
 
 
 ## 📂 Estructura del repositorio
