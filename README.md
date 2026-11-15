@@ -7,7 +7,7 @@ Proyecto N.º: 4 · Docente: Oscar Genaro García Bautista
 
 ## 📖 Descripción del proyecto
 
-Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades químicas de derivados halogenados alifáticos y haluros de acilo (incluyendo monohalogenados, polihalogenados y cicloalcanos clorados, bromados y fluorados) en una tabla de datos, las analiza con gráficas en Python (Conda o Google Colab), documenta el trabajo en un informe en LaTeX y presenta los resultados en un dashboard interactivo de Power BI. El trabajo se gestiona en este repositorio, con las tareas organizadas en un GitHub Project.
+Proyecto número 4 del curso de Química Orgánica. El grupo reúne las propiedades químicas de derivados halogenados alifáticos y haluros de acilo (incluyendo monohalogenados, polihalogenados y cicloalcanos clorados, bromados y fluorados) en una tabla de datos, las analiza con gráficas en Python (Conda o Google Colab), documenta el trabajo en un informe en LaTeX y presenta los resultados en un dashboard interactivo de Power BI. El trabajo se gestiona en este repositorio, con las tareas organizadas en un GitHub Project.
 
 ## 🌍 Integrantes
 
@@ -51,8 +51,12 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 ├── datos/          # Carpeta compuesta de dos tipos de bases de datos en formato `.xlsx`, con información extraída de **CAS-SciFinder**:
     ├── datos/proceso/          # Contiene borradores de las tablas de datos, actualizados a medida que se completaba la información reflejando el progreso del proyecto
     ├── datos/final/          # Contiene el archivo final con las 100 reacciones y 100 obtenciones junto a las propiedades de los 10 compuestos a analizar
-├── notebooks/      # Análisis gráfico (.ipynb) – Colab 
+├── notebooks/      # Análisis gráfico (.ipynb) – Colab
+    ├── notebooks/proceso/          # Contiene avances de las gráficas realizadas en colab, editadas mediante correcciones
+    ├── notebooks/final/          # Contiene las gráficas finales hechas en Google colab
 ├── informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
+    ├── informe/proceso/          # Contiene avances del informe LaTeX
+    ├── informe/final/          # Contiene el informe LaTeX completo
 ├── powerbi/        # Archivo .pbix y capturas de los dashboards
 └── docs/           # Rúbrica, enunciado y notas del grupo
 ```
@@ -69,10 +73,10 @@ Proyecto final del curso de Química Orgánica. El grupo reúne las propiedades 
 - [✅] Crear repositorio, agregar a los 5 integrantes y crear el Project
 - [✅ ] Definir sustancias y propiedades a incluir en la tabla
 - [✅ ] Construir y revisar la tabla de datos
-- [ ] Cargar datos y limpiar en el notebook
-- [ ] Gráficas: tendencias y relación entre propiedades
+- [✅ ] Cargar datos y limpiar en el notebook
+- [✅ ] Gráficas: tendencias y relación entre propiedades
 - [ ] Documentar las líneas de código del notebook
-- [ ] Estructura del informe en LaTeX
+- [✅ ] Estructura del informe en LaTeX
 - [ ] Redactar secciones del informe 
 - [ ] Compilar PDF y revisar errores
 - [ ] Modelo y dashboards en Power BI
