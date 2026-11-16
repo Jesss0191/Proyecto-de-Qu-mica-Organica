@@ -74,9 +74,11 @@ GitHub se usó como el espacio central de trabajo del grupo para desarrollar y o
 ├── Informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
     ├── Informe/Proceso/          # Contiene avances del informe LaTeX
     ├── Informe/Final/          # Contiene el informe LaTeX completo
+    ├── Informe/Gráficas/       # Contiene las gráficas e imágenes usadas en el informe
 ├── Power BI/        # Archivo .pbix y capturas de los dashboards
     ├── Power BI/Modificación/          # Contiene los archivos necesarios para modificar la presentación de power bi
     ├── Power BI/Final/          # Contiene el archivo final .pbix con la presentación del proyecto
+    
 └── Docs/           # Rúbrica, enunciado y notas del grupo
 ```
 
