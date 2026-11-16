@@ -35,12 +35,29 @@ Proyecto número 4 del curso de Química Orgánica. El grupo reúne las propieda
 
 ## 👨‍🔬 Metodología
 
-- **Recolección de datos**: consulta de Cas-Scifinder y registro de las propiedades en una tabla (datos/).
-- **Organización y revisión**: unificar unidades, estructurar la tabla y verificar errores en los datos.
-- **Análisis gráfico**: en un notebook (notebooks/), cargar la tabla y generar gráficas de tendencia y probabilidad que relacionen las propiedades. El código se documenta línea a línea.
-- **Informe**: redacción en LaTeX (informe/) con introducción, metodología, resultados, análisis y conclusiones.
-- **Visualización**: importar la tabla a Power BI, construir el modelo y los dashboards interactivos (powerbi/).
-- **Gestión del trabajo**: una rama por tarea, commits propios de cada integrante, revisión por Pull Request y seguimiento en el Project del repositorio.
+Recolección de datos
+
+La información se obtuvo de la plataforma CAS-SciFinder para diez sustancias halogenadas: clorometano, diclorometano, cloroformo, tetracloruro de carbono, cloruro de formilo, bromoetano, fluoroetano, fluoruro de acetilo, bromuro de acetilo y bromociclohexano. Para cada una se consultaron el peso molecular, el punto de fusión, el punto de ebullición, la densidad, el pKa, el momento dipolar, la solubilidad en agua y la presión de vapor. Además, se registraron diez reacciones, con las mismas propiedades para el producto principal, y diez obtenciones, con las mismas propiedades para el reactante. De cada reacción u obtención se anotaron el número de reacción CAS, los catalizadores, reactivos y solventes, la temperatura, el medio, el nombre y el tipo de reacción y, en el caso de las reacciones, los productos. Todo se organizó en un libro de Excel con tres hojas: Compuestos, Reacciones y Obtenciones.
+
+Organización y revisión de los datos
+
+Los datos se depuraron para poder leerlos directamente en Python y en Power BI. Las celdas sin información se dejaron vacías en lugar de usar texto como “No aplica”, los valores se guardaron como números con punto decimal y se unificó la notación científica. Cuando una propiedad aparecía como rango se tomó el valor menor, lo mismo que cuando había dos valores de pKa, y cuando la fuente daba una desigualdad se usó el número del límite. Los valores con errores evidentes de formato, como decimales perdidos o datos que Excel había convertido en fechas, se revisaron y corrigieron, y también se corrigieron nombres con errores de escritura. Se conservó una única versión final de la tabla, y las versiones intermedias quedaron en el repositorio como registro del proceso.
+
+Análisis gráfico
+
+El análisis se desarrolló en Google Colab con Python. El notebook carga la tabla de datos, prepara las columnas numéricas y genera las gráficas, cada una acompañada de una celda de texto en formato Markdown que explica el proceso realizado y el resultado. Se elaboraron comparaciones de cada propiedad entre los diez compuestos, un mapa de calor de las propiedades fisicoquímicas, distribuciones de variables como la solubilidad, gráficos de la frecuencia de los tipos de reacción y del número de reacciones y obtenciones por compuesto, y gráficos de áreas apiladas del peso molecular de los productos por reacción. Estas visualizaciones permiten identificar tendencias entre propiedades y relacionarlas con la estructura de cada sustancia.
+
+Informe en LaTeX
+
+El informe se redactó en LaTeX con formato de artículo de investigación, para obtener un documento con estructura, espacio y ubicación de los contenidos consistentes. Incluye introducción, metodología, resultados y conclusiones, e integra las tablas y las figuras generadas en el análisis gráfico. La redacción se repartió entre varios integrantes del grupo, los avances de cada versión se guardaron en el repositorio y el documento final se compiló a PDF.
+
+Visualización en Power BI
+
+La tabla de datos se importó a Power BI y se construyó un modelo que relaciona la hoja de compuestos con las de reacciones y obtenciones a través del nombre de cada compuesto, de modo que los filtros se apliquen de forma coherente en todas las páginas. Sobre este modelo se diseñó una presentación interactiva, con segmentaciones y gráficos enlazados, que permite explorar las propiedades, los tipos de reacción y las condiciones de cada una por compuesto, y que sirve de apoyo en la exposición.
+
+Gestión del trabajo en GitHub
+
+GitHub se usó como el espacio central de trabajo del grupo para desarrollar y organizar el proyecto de forma colaborativa. En el repositorio se guardó cada entregable (la tabla de datos en Excel, las gráficas y el notebook de Colab, el informe en LaTeX y el archivo de Power BI), junto con la rúbrica y el enunciado en una carpeta de documentos. Cada carpeta se dividió en una parte de proceso y otra final, de modo que las versiones sucesivas de la tabla de datos (de la V1 a la V12) y los avances del informe y de las gráficas quedaron registrados y se pueden consultar o recuperar. El historial de casi 70 commits permite ver qué aportó cada uno de los cinco integrantes y cuándo, y evita que el trabajo se pierda o se sobrescriba al editar entre varias personas. El README documenta la descripción del proyecto, los objetivos, la metodología, el reparto de responsabilidades y las fechas, y un GitHub Project sirvió para organizar y asignar las tareas.
 
 
 ## 📂 Estructura del repositorio
