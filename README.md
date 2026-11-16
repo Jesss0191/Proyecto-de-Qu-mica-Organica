@@ -70,11 +70,13 @@ GitHub se usó como el espacio central de trabajo del grupo para desarrollar y o
     ├── Datos/Final/          # Contiene el archivo final con las 100 reacciones y 100 obtenciones junto a las propiedades de los 10 compuestos a analizar
 ├── Notebooks/      # Análisis gráfico (.ipynb) – Colab
     ├── Notebooks/Proceso/          # Contiene avances de las gráficas realizadas en colab, editadas mediante correcciones
-    ├── Notebooks/Final/          # Contiene las gráficas finales hechas en Google colab
+    ├── Notebooks/Final/          # Contiene las gráficas finales hechas en Google colab junto a la explicación de cada proceso 
 ├── Informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
     ├── Informe/Proceso/          # Contiene avances del informe LaTeX
     ├── Informe/Final/          # Contiene el informe LaTeX completo
 ├── Power BI/        # Archivo .pbix y capturas de los dashboards
+    ├── Power BI/Modificación/          # Contiene los archivos necesarios para modificar la presentación de power bi
+    ├── Power BI/Final/          # Contiene el archivo final .pbix con la presentación del proyecto
 └── Docs/           # Rúbrica, enunciado y notas del grupo
 ```
 
@@ -96,7 +98,7 @@ GitHub se usó como el espacio central de trabajo del grupo para desarrollar y o
 - [✅ ] Estructura del informe en LaTeX
 - [ ] Redactar secciones del informe 
 - [ ] Compilar PDF y revisar errores
-- [ ] Modelo y dashboards en Power BI
+- [✅ ] Modelo y dashboards en Power BI
 - [ ] Preparar exposición (10 min) y ensayar preguntas
 - [ ] Verificar clonado/descarga del repo desde cero
 - [ ] Comprimir carpeta y entregar antes del 16/11, 18:00
