@@ -48,17 +48,17 @@ Proyecto número 4 del curso de Química Orgánica. El grupo reúne las propieda
 ```
 .
 ├── README.md
-├── datos/          # Carpeta compuesta de dos tipos de bases de datos en formato `.xlsx`, con información extraída de **CAS-SciFinder**:
-    ├── datos/proceso/          # Contiene borradores de las tablas de datos, actualizados a medida que se completaba la información reflejando el progreso del proyecto
-    ├── datos/final/          # Contiene el archivo final con las 100 reacciones y 100 obtenciones junto a las propiedades de los 10 compuestos a analizar
-├── notebooks/      # Análisis gráfico (.ipynb) – Colab
-    ├── notebooks/proceso/          # Contiene avances de las gráficas realizadas en colab, editadas mediante correcciones
-    ├── notebooks/final/          # Contiene las gráficas finales hechas en Google colab
-├── informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
-    ├── informe/proceso/          # Contiene avances del informe LaTeX
-    ├── informe/final/          # Contiene el informe LaTeX completo
-├── powerbi/        # Archivo .pbix y capturas de los dashboards
-└── docs/           # Rúbrica, enunciado y notas del grupo
+├── Datos/          # Carpeta compuesta de dos tipos de bases de datos en formato `.xlsx`, con información extraída de **CAS-SciFinder**:
+    ├── Datos/Proceso/          # Contiene borradores de las tablas de datos, actualizados a medida que se completaba la información reflejando el progreso del proyecto
+    ├── Datos/Final/          # Contiene el archivo final con las 100 reacciones y 100 obtenciones junto a las propiedades de los 10 compuestos a analizar
+├── Notebooks/      # Análisis gráfico (.ipynb) – Colab
+    ├── Notebooks/Proceso/          # Contiene avances de las gráficas realizadas en colab, editadas mediante correcciones
+    ├── Notebooks/Final/          # Contiene las gráficas finales hechas en Google colab
+├── Informe/        # Informe en LaTeX (.tex, .bib, figuras y PDF compilado)
+    ├── Informe/Proceso/          # Contiene avances del informe LaTeX
+    ├── Informe/Final/          # Contiene el informe LaTeX completo
+├── Power BI/        # Archivo .pbix y capturas de los dashboards
+└── Docs/           # Rúbrica, enunciado y notas del grupo
 ```
 
 
