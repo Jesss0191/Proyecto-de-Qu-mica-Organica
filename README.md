@@ -94,11 +94,11 @@ GitHub se usó como el espacio central de trabajo del grupo para desarrollar y o
 - [✅ ] Construir y revisar la tabla de datos
 - [✅ ] Cargar datos y limpiar en el notebook
 - [✅ ] Gráficas: tendencias y relación entre propiedades
-- [ ] Documentar las líneas de código del notebook
+- [✅ ] Documentar las líneas de código del notebook
 - [✅ ] Estructura del informe en LaTeX
-- [ ] Redactar secciones del informe 
-- [ ] Compilar PDF y revisar errores
+- [✅ ] Redactar secciones del informe 
+- [✅ ] Compilar PDF y revisar errores
 - [✅ ] Modelo y dashboards en Power BI
-- [ ] Preparar exposición (10 min) y ensayar preguntas
-- [ ] Verificar clonado/descarga del repo desde cero
-- [ ] Comprimir carpeta y entregar antes del 16/11, 18:00
+- [✅ ] Preparar exposición (10 min) y ensayar preguntas
+- [✅ ] Verificar clonado/descarga del repo desde cero
+- [✅ ] Comprimir carpeta y entregar antes del 16/11, 18:00
